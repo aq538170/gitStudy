@@ -1,0 +1,4 @@
+linux命令大全：
+
+创建文件：touch
+创建文件夹：mkdir

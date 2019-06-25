@@ -1,0 +1,11 @@
+# 设置用户名及邮箱
+git config --global user.name 'oujq'
+git config --global user.email oujiequan90@163.com
+
+# 创建Git仓库
+git init
+
+# 获得Git仓库
+git clone https://github.com/aq538170/gitStudy.git
+
+# 提交更新
